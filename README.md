@@ -2,4 +2,4 @@
 
 | # | Title | Category | Solution |
 |---|-------|----------|----------|
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | Algorithms | [JavaScript](/Algorithms/771-Jewels and Stones.js/) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | Algorithms | [JavaScript](./Algorithms/771-Jewls-and-Stones.js)|
