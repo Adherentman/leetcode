@@ -1,6 +1,7 @@
 /**
  * @param {number[]} nums
  * @return {number}
+ * Date: 2018-01-31
  */
 var removeDuplicates = function(nums) {
   if (nums.length == 0) return 0;
