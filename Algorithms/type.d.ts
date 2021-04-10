@@ -16,3 +16,7 @@ interface TreeNode {
     left: Maybe<TreeNode>;
     right: Maybe<TreeNode>
 }
+interface Node {
+    val: number;
+    children: Node[]
+}
